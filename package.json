@@ -24,6 +24,6 @@
     "@babel/plugin-proposal-class-properties": "^7.2.3"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "nodemon": "^2.0.2"
   }
 }
