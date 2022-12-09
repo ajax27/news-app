@@ -14,7 +14,7 @@
   "author": "Shaun Collins",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "live-server": "^1.2.1",
     "parcel-bundler": "^1.10.3",
     "react": "^16.6.3",
